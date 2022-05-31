@@ -49,7 +49,7 @@
   - Continue playing last game (If user has history).
   - Top games (Based on popularity) in chosen 3 genres at registration time.
 
-![alt](./SS/Home-Page.png)
+![HomePage](./SS/Home-Page.png)
 
 - Recommendations
 
